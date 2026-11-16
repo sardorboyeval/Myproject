@@ -1,0 +1,43 @@
+body{
+margin: 0;
+background-image: url('/sakura.avif');
+background-size: 100%;
+background-repeat: no-repeat;
+
+}
+
+
+ header{   
+background-color: bisque;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+}
+a{
+text-decoration: none;
+color: black;
+
+
+}
+main{
+
+width: 600px;
+margin: 200px 150px;
+}
+
+.btn2{
+background: none;
+border: 2px solid rgb(47, 255, 158);
+padding: 5px;
+color: rgb(47, 255, 158); ;
+
+
+}
+button{
+border: 2px solid rgb(47, 255, 158);
+padding: 5px;
+color: rgb(0, 0, 0); ;
+  background-color: aquamarine;  
+}
+
